@@ -1,0 +1,9 @@
+The solutions for this chapter are in the following folders:
+
+C# solutions
+\SQL Server 2019\Projects\C#\Chapter 19a
+\SQL Server 2019\Projects\C#\Chapter 19b
+
+Visual Basic solutions
+\SQL Server 2019\Projects\Visual Basic\Chapter 19a
+\SQL Server 2019\Projects\Visual Basic \Chapter 19b

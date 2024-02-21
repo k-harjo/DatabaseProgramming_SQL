@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-SQL Server 2019",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
